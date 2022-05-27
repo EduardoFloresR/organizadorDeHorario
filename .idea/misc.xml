@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2275" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/drawable/custom_button.xml" value="0.2" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/drawable/custom_main.xml" value="0.1215" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/drawable/custom_tituloazul.xml" value="0.1215" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/drawable/custom_tituloverde.xml" value="0.1215" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/drawable/ic_actividades.xml" value="0.1" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/drawable/ic_agregar.xml" value="0.2275" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.1" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/drawable/ic_buscar.xml" value="0.1" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/drawable/ic_fin.xml" value="0.1" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2275" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/drawable/ic_reloj.xml" value="0.2275" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout-land/activity_horario.xml" value="0.1" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/activity_agregar_materia.xml" value="0.264" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/activity_asignatura.xml" value="0.4" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/activity_horario.xml" value="0.25" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/activity_info.xml" value="0.264" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/activity_mis_aactividades.xml" value="0.25" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/activity_mis_actividades.xml" value="0.25" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/activity_registro.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/activity_sesion.xml" value="0.264" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/asignaturacardview.xml" value="0.25" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/cardview_asignatura.xml" value="0.4" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/cardview_info.xml" value="0.25" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/cardview_infor.xml" value="0.41702867072111205" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/fragment_agregar.xml" value="0.264" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/fragment_asignatura.xml" value="0.4" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/fragment_asignaturas.xml" value="0.25" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/fragment_buscar.xml" value="0.25" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/fragment_info.xml" value="0.25" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/fragment_mis_actividades.xml" value="0.25" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/layout/list_item.xml" value="0.25" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/menu/menu_navigation.xml" value="0.25" />
+        <entry key="..\:/Users/eduar/AndroidStudioProjects/OrganizadordehorarioV1.1/Organizadordehorario/app/src/main/res/menu/menu_navigation_actividades.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

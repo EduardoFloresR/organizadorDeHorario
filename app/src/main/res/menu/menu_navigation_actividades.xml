@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_misActividades"
+        android:orderInCategory="103"
+        android:title="Actividades"
+        android:icon="@drawable/ic_actividades"
+        />
+
+    <item android:id="@+id/nav_agregar"
+        android:orderInCategory="104"
+        android:title="Agregar"
+        android:icon="@drawable/ic_agregar"
+        />
+</menu>

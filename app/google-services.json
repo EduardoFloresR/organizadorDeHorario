@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860941816802",
+    "project_id": "organizadorhorario-9aa1c",
+    "storage_bucket": "organizadorhorario-9aa1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860941816802:android:6d16ce0652d9cdfede5fbb",
+        "android_client_info": {
+          "package_name": "mx.efr.organizadordehorario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860941816802-aon5thmpdl4ntlh1nudrps0nv3ddj9na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm-a0xEYFzOnr3LtY8I48Q1iLDztB9L0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860941816802-aon5thmpdl4ntlh1nudrps0nv3ddj9na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

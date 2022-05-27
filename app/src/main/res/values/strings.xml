@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ΣEIP APP</string>
+
+    <string name="strCredenciales">credenciales</string>
+    <string name="strUser">user</string>
+    <string name="strNoUsuarios">No hay usuarios registrados</string>
+    <string name="strPassword">password</string>
+
+    <string-array name="HorasInicio">
+        <item>7:00</item>
+        <item>9:00</item>
+        <item>11:00</item>
+        <item>13:00</item>
+        <item>15:00</item>
+        <item>17:00</item>
+        <item>19:00</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

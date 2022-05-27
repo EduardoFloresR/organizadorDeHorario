@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_asignatura"
+        android:orderInCategory="101"
+        android:title="Asignaturas"
+        android:icon="@drawable/ic_reloj"
+        />
+
+    <item android:id="@+id/nav_buscar"
+        android:orderInCategory="102"
+        android:title="Buscar"
+        android:icon="@drawable/ic_buscar"
+        />
+
+    <item android:id="@+id/nav_agregar"
+        android:orderInCategory="103"
+        android:title="Agregar"
+        android:icon="@drawable/ic_agregar"
+        />
+
+    <item android:id="@+id/nav_misActividades"
+        android:orderInCategory="104"
+        android:title="Actividades"
+        android:icon="@drawable/ic_actividades"
+        />
+</menu>
